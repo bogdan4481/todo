@@ -15,7 +15,7 @@ const AppHeader = () =>{
 };
 
 const SearchPanel = () =>{
-    const searchText = 'mytext';
+    const searchText = 'Тест';
     return <input placeholder={searchText}/>
 };
 
